@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">
-🔗 <a href="https://github.com/YOUR_NEW_USERNAME">Visit My New Profile</a>
+🔗 <a href="https://github.com/swastik7sharma">Visit My New Profile</a>
 </h2>
 
 <p align="center">
